@@ -28,12 +28,18 @@
 [`time`](https://pkg.go.dev/time)
 [`unsafe`](https://pkg.go.dev/unsafe)
 
+* Паттерны Fan-In и Fan-Out, уметь реализовать их в коде.
+
 * Преимущества и недостатки SQL и ORM. Какие ORM библиотеки в Go знаешь?
+
+## Linux
+
+* Что означают поля VSZ, RSS и SHM в выводе top/ps?
 
 ## Общее
 
-Методологии разработки: `Waterfall` `Cascade` `Iterative` `Agile` `Scrum` `Kanban`.
+* Методологии разработки: `Waterfall` `Cascade` `Iterative` `Agile` `Scrum` `Kanban`.
 
-Обработки ошибок и отказов: `Circuit Breaker` `Retry` `Timeout` `Fallback` `Bulkhead`.
+* Обработки ошибок и отказов: `Circuit Breaker` `Retry` `Timeout` `Fallback` `Bulkhead`.
 
-Распределение нагрузки: `Round Robin` `Least Connections` `Weighted Round Robin` `Weighted Least Connections` `IP Hash` `Sticky Sessions` `Random` `Least Response Time` `Chaos Monkey`.
+* Распределение нагрузки: `Round Robin` `Least Connections` `Weighted Round Robin` `Weighted Least Connections` `IP Hash` `Sticky Sessions` `Random` `Least Response Time` `Chaos Monkey`.
