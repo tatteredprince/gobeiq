@@ -2,7 +2,7 @@
 
 ## Go
 
-Знать "на зубок" модули
+* Знать "на зубок" модули
 [`bufio`](https://pkg.go.dev/bufio)
 [`builtin`](https://pkg.go.dev/builtin)
 [`cmp`](https://pkg.go.dev/cmp)
@@ -27,6 +27,8 @@
 [`sync`](https://pkg.go.dev/sync)
 [`time`](https://pkg.go.dev/time)
 [`unsafe`](https://pkg.go.dev/unsafe)
+
+* Преимущества и недостатки SQL и ORM. Какие ORM библиотеки в Go знаешь?
 
 ## Общее
 
