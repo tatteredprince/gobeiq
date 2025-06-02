@@ -72,11 +72,17 @@
 
 * Отличия между TCP и UDP: гарантия доставки, нумерация пакетов, поддержка дуплексного режима, предустановка соединения, скорость передачи данных, восстановление данных.
 
+* Опишите процесс TLS handshake, как он поменялся в TLS 1.3?
+
 ## HTTP
 
 * Составные части HTTP запроса и ответа.
 
 * Коды ответов: 1xx, 2xx, 3xx, 4xx и 5xx.
+
+* Приведите примеры общих, клиентских и серверных заголовков.
+
+* За что отвечают заголовки `Accept` `Accept-Charset` `Accept-Encoding` `Accept-Language` `Cache-Control` `Connection` `Content-Disposition` `Content-Encoding` `Content-Language` `Content-Length` `Content-Location` `Content-Type` `Cookie` `Date` `Host` `Location` `Referer` `Set-Cookie` `Transfer-Encoding` `User-Agent` ?
 
 * Как работает HTTP Basic Auth?
 
