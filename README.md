@@ -1,6 +1,6 @@
 # Go Backend Frequently Asked Interview Questions
 
-[Вопросы Go](./Go.md)
+[Вопросы Go](Go.md)
 
 ## Что выведет программа?
 
@@ -141,17 +141,7 @@ func handle() error {
 
 * Как составляется план запросов? Команда `EXPLAIN`.
 
-## Kafka
-
-* Для чего используется?
-
-* Для чего используются `consumer group`?
-
-* Гарантии доставки: `at least once` `at most once`.
-
-* Как работают партииции?
-
-* Отличия `push` и `pull` моделей.
+[Вопросы Kafka](Kafka.md)
 
 ## Общее
 
