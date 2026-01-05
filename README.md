@@ -101,15 +101,7 @@ func handle() error {
 
 * Уметь пользоваться утилитами `dig` и `nslookup`.
 
-## Git
-
-* Чем отличается ветка от тега?
-
-* Какие типы и стратегии слияний знаете?
-
-* Отличия `rebase` от `merge`.
-
-* Какие состояния локального репозитория существуют?
+[Вопросы Git](Git.md)
 
 ## Linux
 
@@ -127,7 +119,7 @@ func handle() error {
 
 * Для чего нужен `Predictable network interface naming convention`?
 
-[Вопросы PostgeSQL](PostgreSQL.md)
+[Вопросы PostgreSQL](PostgreSQL.md)
 
 [Вопросы Kafka](Kafka.md)
 
