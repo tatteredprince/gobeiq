@@ -17,3 +17,5 @@
 [PostgreSQL: реляционная база данных](PostgreSQL.md)
 
 [Kafka: брокер сообщений](Kafka.md)
+
+[Redis: key-value база данных](Redis.md)
